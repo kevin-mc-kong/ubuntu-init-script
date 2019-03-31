@@ -1,0 +1,18 @@
+alias sagi="sudo apt install"
+alias sagr="sudo apt remove"
+alias sagar="sudo apt autoremove"
+alias sagu="sudo apt update"
+alias sagup="sudo apt upgrade"
+
+alias fuck="sudo $(history -p \!\!)"
+
+alias gs="git status"
+alias gco="git checkout"
+alias gcob="git checkout -b"
+alias ga="git add"
+alias gcm="git commit -m"
+alias gpso="git push origin"
+alias gplo="git pull origin"
+alias gplom="git pull origin master"
+alias gb="git branch"
+alias gbd="git branch -D"
